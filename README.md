@@ -5,12 +5,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdixit0101&label=Profile%20views&color=0e75b6&style=flat" alt="amitdixit0101" /> </p>
 
-- 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
+- 🌱 I have worked on **Devops and React**
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/ankit-pawar-75277b80/
-- [https://www.linkedin.com/in/amit-dixit-517187186/](https://www.linkedin.com/in/amit-dixit-517187186/)
 
-- 📫 How to reach me **amitdixit104@gmail.com**
+- 📫 How to reach me **ankitpawar0086@gmail.com**
 
 - ⚡ Fun fact **I am funny 😆**
 
