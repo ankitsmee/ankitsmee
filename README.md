@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/ankitsmee
 
-- 📫 How to reach me **ankitpawar0086@gmail.com**
+- 📫 You can reach me **ankitpawar0086@gmail.com**
 
 
 
