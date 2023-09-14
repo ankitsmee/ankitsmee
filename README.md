@@ -1,4 +1,4 @@
-![logo](https://github.com/AmitDixit0101/AmitDixit0101/blob/main/BANNER.png)
+<!--![logo](https://github.com/AmitDixit0101/AmitDixit0101/blob/main/BANNER.png) -->
 <h1 align="center">Hi 👋, I'm Ankit Pawar</h1>
 <h3 align="center">A passionate Front end developer and Devops Engineer from India</h3>
 
