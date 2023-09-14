@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdixit0101&label=Profile%20views&color=0e75b6&style=flat" alt="amitdixit0101" /> </p>
 
-- 🌱 I have worked on **Devops and React**
+- 🌱 Devops and Front-end Developer
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/ankit-pawar-75277b80/
 
@@ -32,10 +32,7 @@
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
+        rel="noreferrer">  <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
         rel="noreferrer"> <img
