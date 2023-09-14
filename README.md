@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amit-dixit-517187186/](https://www.linkedin.com/in/amit-dixit-517187186/)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/ankit-pawar-75277b80/
+- [https://www.linkedin.com/in/amit-dixit-517187186/](https://www.linkedin.com/in/amit-dixit-517187186/)
 
 - 📫 How to reach me **amitdixit104@gmail.com**
 
