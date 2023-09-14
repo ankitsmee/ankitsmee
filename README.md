@@ -7,7 +7,7 @@
 
 - 🌱 Devops and Front-end Developer
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/ankit-pawar-75277b80/
+- 👨‍💻 All of my projects are available at https://github.com/ankitsmee
 
 - 📫 How to reach me **ankitpawar0086@gmail.com**
 
