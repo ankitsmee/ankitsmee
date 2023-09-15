@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-pawar-75277b80/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit dixit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-pawar-75277b80/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsmee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ankitsmee?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit dixit (ad)" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitsmee?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realamitdixit" height="30" width="40" /></a>
 </p>
