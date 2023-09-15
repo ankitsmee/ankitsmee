@@ -1,5 +1,5 @@
 <!--![logo](https://github.com/AmitDixit0101/AmitDixit0101/blob/main/BANNER.png) -->
-<h1 align="center" transform: translate(-50%, -50%) >Hi 👋, I'm Ankit Pawar</h1>
+<h1 align="center" transform= "translate(-50%, -50%)" >Hi 👋, I'm Ankit Pawar</h1>
 <h3 align="center">A passionate Front-end Developer and DevOps Engineer from India</h3>
 <h2>🔭 I’m currently working on React & React Native</h2>
 
